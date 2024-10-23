@@ -31,20 +31,25 @@ An interactive Kanban board application built using React JS and SCSS. The board
 ## Preview
 
 ##### Priority Display with ordering priority
-![Screenshot 2024-10-22 213326](https://github.com/user-attachments/assets/cb46db47-2ca3-4bbc-a860-51ae9ade9ac2)
+![Screenshot 2024-10-22 213326](https://github.com/user-attachments/assets/110c211c-6dbe-492b-81f6-c23454e6d1ed)
+
 
 ##### User Display with ordering priority
-![Screenshot 2024-10-22 213441](https://github.com/user-attachments/assets/90923f16-ac6c-4a8b-9934-45443b538256)
+![Screenshot 2024-10-22 213441](https://github.com/user-attachments/assets/08f2c0c3-257e-4bce-81bf-de98fd1616b5)
+
 
 ##### Status Display with ordering priority
-![Screenshot 2024-10-22 213518](https://github.com/user-attachments/assets/d0ba8026-852e-4f49-a605-da583eede158)
+![Screenshot 2024-10-22 213518](https://github.com/user-attachments/assets/bb9eef10-28cf-4da5-8841-e85211bf8b2d)
 
 ##### Priority with Ordering title
-![Screenshot 2024-10-22 213643](https://github.com/user-attachments/assets/a42096f4-d9dc-4b1d-b3e3-1fffc8c649fa)
+![Screenshot 2024-10-22 213643](https://github.com/user-attachments/assets/bf7bedc5-15ac-4bc5-9341-1399dffe6128)
+
 
 ##### User Display with Ordering title
-![Screenshot 2024-10-22 213930](https://github.com/user-attachments/assets/cb632483-abf2-4d05-af55-5bdd4ccdfef9)
+![Screenshot 2024-10-22 213930](https://github.com/user-attachments/assets/7da9fc0c-fd72-4cea-91d5-7462a1304b35)
+
 
 ##### Status Display with Ordering title
-![Screenshot 2024-10-22 213715](https://github.com/user-attachments/assets/93a94e74-62eb-4db2-b9b3-ea5837296a89)
+![Screenshot 2024-10-22 213715](https://github.com/user-attachments/assets/d2cd140f-f26e-4f17-b227-c267b050280d)
+
 
